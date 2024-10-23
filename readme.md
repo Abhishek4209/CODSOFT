@@ -86,7 +86,7 @@ pip install pandas scikit-learn matplotlib seaborn xgboost
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/codsoft-projects.git
+git clone https://github.com/Abhishek4209/CODSOFT?tab=readme-ov-file
 ```
 
 2. Navigate to the project folder:
@@ -109,5 +109,3 @@ For any questions or suggestions, feel free to reach out via [email](mailto:abhi
 
 **Note**: These projects are part of the **CodSoft Data Science Internship** program and showcase different machine learning models and techniques for educational purposes.
 ```
-
-Feel free to modify the content as needed!
