@@ -92,7 +92,7 @@ git clone https://github.com/Abhishek4209/CODSOFT?tab=readme-ov-file
 2. Navigate to the project folder:
 
 ```bash
-cd codsoft-projects
+cd CODSOFT
 ```
 
 3. Run the Jupyter notebooks:
