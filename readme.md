@@ -1,6 +1,3 @@
-Here's a `README.md` file structure for your CodSoft program, which includes the **Iris Classification**, **Movie Rating Prediction**, and **Titanic Survival Model** projects:
-
-```markdown
 # CodSoft Data Science Program
 
 This repository contains a collection of machine learning projects completed during the **CodSoft Data Science Internship Program**. The projects include:
